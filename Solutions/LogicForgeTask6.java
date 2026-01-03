@@ -1,4 +1,4 @@
-package com.dsa;
+//package com.dsa;
 
 public class LogicForgeTask6 {
     public static void TowerOfHanoi(int N, char from_rod, char aux_rod, char to_rod){
